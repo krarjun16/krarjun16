@@ -1,3 +1,4 @@
+![logo](https://github.com/krarjun16/krarjun16/blob/main/pexels-lukas-669615.jpg)
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">📊 Data analyst with a passion for transforming raw data into captivating insights through coding, visualization, and the art of data storytelling. 🚀💻📈📚</h3>
 
